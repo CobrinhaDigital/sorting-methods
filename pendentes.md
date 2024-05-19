@@ -1,0 +1,1 @@
+para as curvas que eu pretendo formar para cada metodo, eu preciso comparar com diferentes tamanhos e tempos
